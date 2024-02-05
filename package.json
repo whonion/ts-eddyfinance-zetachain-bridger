@@ -1,0 +1,17 @@
+{
+  "name": "eddyfinance-zetachain-bridger",
+  "version": "1.0.0",
+  "description": "TypeScript implementation of Bridger Zetachain via https://app.eddy.finance",
+  "main": "main.js",
+  "author": "https://github.com/whonion",
+  "scripts": {
+      "start": "ts-node main.ts"
+  },
+  "dependencies": {
+      "ethers": "^5.7.2",
+      "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+      "@types/node": "^20.6.1"
+  }
+}
